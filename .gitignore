@@ -1,0 +1,6 @@
+# Cloud9 IDE
+/.c9/
+
+# Composer
+composer.phar
+/vendor/
